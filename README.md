@@ -1,10 +1,10 @@
-<p align="center">
+<div align="center">
+  <h1>🦈Stats</h1>
+  <p align="center">
   <a href="https://github.com/Tmdhoon2/github-readme-stats">
     <br><br><img src="https://github-readme-stats.vercel.app/api?username=Tmdhoon2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
   </a>
   </p>
-
-<div align="center">
 
   ## <b> 💻 Learning</b>
 
