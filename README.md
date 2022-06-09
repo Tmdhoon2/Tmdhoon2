@@ -10,5 +10,5 @@
 
 
 ## <b> 📱 SNS</b>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>  <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></center>
+<img src="https://img.shields.io/badge/@Seung_hoon06-E4405F?style=flat-square&logo=instagram&logoColor=white"/>  <img src="https://img.shields.io/badge/정승훈-1877F2?style=flat-square&logo=facebook&logoColor=white"/> <img src="https://img.shields.io/badge/hks026naver@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></center>
 </div>
