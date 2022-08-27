@@ -1,14 +1,17 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=timeGradient&height=300&section=header&text=Seunghoon🎹%20&fontSize=90"/>
 <div align="center">
   <h1>🦈Stats</h1>
   <p align="center">
   <a href="https://github.com/Tmdhoon2/github-readme-stats">
-    <br><br><img src="https://github-readme-stats.vercel.app/api?username=Tmdhoon2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Tmdhoon2&show_icons=true&theme=jolly"/>
+    <br></br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tmdhoon2&layout=compact"/>
   </a>
   </p>
 
   ## <b> 💻 Learning</b>
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=#00599C"/>
 
 
 ## <b> 🛠 Tools</b>
