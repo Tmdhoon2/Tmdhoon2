@@ -5,7 +5,8 @@
   <p align="center">
   <a href="https://github.com/Tmdhoon2/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Tmdhoon2&show_icons=true&theme=jolly"/>
-    <br></br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tmdhoon2&layout=compact"/>
+    <h2>✔Launguage</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tmdhoon2&layout=compact"/>
   </a>
   </p>
 
