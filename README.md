@@ -1,14 +1,14 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=timeGradient&height=300&section=header&text=Seunghoon🎹%20&fontSize=90"/>
-<div align="center">
-  <h1>🦈Stats</h1>
+<!-- <div align="center"> -->
+<!--   <h1>🦈Stats</h1>
   <p align="center">
   <a href="https://github.com/Tmdhoon2/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Tmdhoon2&show_icons=true&theme=jolly"/>
   </a>
   </p>
-
-  ## <b> 💻 Learning</b>
+ -->
+<!--   ## <b> 💻 Learning</b>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tmdhoon2&layout=compact"/>
 <br></br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -29,3 +29,4 @@
  </a>
 <img src="https://img.shields.io/badge/hks026naver@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </div>
+ -->
