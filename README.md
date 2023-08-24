@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flatsquare&logo=Jetpack Compose&logoColor=white"/>
 </p>
 
-#### Leaning
+#### Learning
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flatsquare&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flatsquare&logo=Java&logoColor=white"/>
