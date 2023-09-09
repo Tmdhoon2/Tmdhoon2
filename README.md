@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=timeGradient&height=300&section=header&text=Seunghoon🎹%20&fontSize=90"/>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tmdhoon2&layout=compact" alt="Tmdhoon2's github stats" /> -->
-
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Tmdhoon11"/>
 
 
@@ -25,6 +23,7 @@
 
 ### 💪 Skills
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tmdhoon2&layout=compact" alt="Tmdhoon2's github stats" />
 
 #### Languages
 <p>
