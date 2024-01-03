@@ -15,7 +15,7 @@
 
 
 <p>
-   <b>안드로이드 개발 공부하는 18살 정승훈 입니다!</b>
+   <b>안드로이드 개발 공부하는 19살 정승훈 입니다!</b>
 </p>
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Tmdhoon2&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Tmdhoon2's github stats" /> -->
