@@ -6,6 +6,7 @@
 ### 👋 Hi there!
 
 <p>
+  <a href="https://wakatime.com/@b6de1c8e-0286-429b-b4e6-09e4a2082294"><img src="https://wakatime.com/badge/user/b6de1c8e-0286-429b-b4e6-09e4a2082294.svg"/></a><br>
   <a href="https://velog.io/@tmdhoon2" target="_blank"><img src="https://img.shields.io/badge/Tmdhoon2-20C997?style=flatsquare&logo=Velog&logoColor=white"/>
   <a href="https://www.linkedin.com/in/승훈-정-977817255/" target="_blank"><img src="https://img.shields.io/badge/정승훈-0A66C2?style=flatsquare&logo=Linkedin&logoColor=white"/>
   <a href="mailto:hks026naver@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hks026naver@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
