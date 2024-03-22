@@ -14,12 +14,9 @@
 </p>
 
 
-
 <p>
    <b>안드로이드 개발 공부하는 19살 정승훈 입니다!</b>
 </p>
-
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Tmdhoon2&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Tmdhoon2's github stats" /> -->
 
 
 ### 💪 Skills
@@ -30,6 +27,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flatsquare&logo=Java&logoColor=white"/>
 </p>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tmdhoon2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/></a></p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tmdhoon2&layout=compact" alt="Tmdhoon2's github stats" />
 
 #### Skills
