@@ -21,5 +21,5 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tmdhoon2&layout=compact" alt="Tmdhoon2's github stats" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Tmdhoon11"/>
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Tmdhoon11"/>
 </div>
